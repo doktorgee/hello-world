@@ -1,3 +1,3 @@
 # hello-world
 First github repo
-Don't code. I write.
+I don't code. I write.
